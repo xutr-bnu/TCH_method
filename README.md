@@ -8,7 +8,7 @@ Xinlei He (hxlbsd@mail.bnu.edu.cn)
 The three‐cornered hat (TCH) method is used to assess the relative uncertainty of gridded datasets without any a priori knowledge.  
 The Bayesian‐based three‐cornered hat (BTCH) method is used to integrate gridded datasets without any a priori knowledge.  
 **TCH_calculation_v1.m** is the main program of the TCH method.  
-**BTCH_calculation_v1.m** is the main program of the BTCH method.
+**BTCH_calculation_v1.m** is the main program of the BTCH method.  
 (You need to prepare at least three types of gridded datasets to run the program, and each type of datasets needs to have complete consistency)
 
 ## Related references
